@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from 'react';
 import { web3, BN } from '@project-serum/anchor';
 import { getProgram, getProvider } from '../connecion/page';
