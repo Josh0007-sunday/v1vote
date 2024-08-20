@@ -1,3 +1,4 @@
+"use client";
 import { Connection, PublicKey } from '@solana/web3.js';
 import { programs } from '@metaplex/js';
 const { metadata: { Metadata } } = programs;

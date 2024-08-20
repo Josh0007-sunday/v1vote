@@ -1,3 +1,4 @@
+"use client";
 import React, { useCallback, useEffect, useState } from 'react';
 import { useWallet } from '@solana/wallet-adapter-react';
 import { checkOwnership } from '../checkowner/page';
